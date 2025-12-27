@@ -1,0 +1,7 @@
+{
+  "name": "SJDA Modern MIS System",
+  "description": "A comprehensive Management Information System (MIS) dashboard with AI-driven insights, project tracking, and real-time analytics to replace legacy ASP.NET infrastructures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
